@@ -7,7 +7,7 @@ Quit writing a bunch of boilerplate flexbox CSS and start *Flexin'!*
 
 ## Props
 
-These props maps to flex-related CSS properties.
+These props map to flex-related CSS properties.
 
 * `alignContent`  =>  `align-content`
 * `alignItems`  =>  `align-items`
